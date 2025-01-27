@@ -12,8 +12,8 @@ I also love contributing to **open-source projects**, sharing knowledge, and col
 ---
 
 ## 🌐 Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/your-profile)**  
-- **[Kaggle](https://www.kaggle.com/your-profile)**  
+- **[LinkedIn](https://www.linkedin.com/in/jagjeet-chauhan/)**  
+- **[Kaggle](https://www.kaggle.com/jagjeetchauhan)**  
 
 Feel free to reach out for collaborations, discussions, or just to connect!
 
